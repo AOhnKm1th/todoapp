@@ -26,7 +26,6 @@ class _HomepageState extends State<Homepage> {
               fontSize: 25.0,
               fontWeight: FontWeight.bold
             ),),
-            Text("ujufhnfgbfgvbh")
 
           ],
         )
